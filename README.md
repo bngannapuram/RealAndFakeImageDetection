@@ -4,11 +4,6 @@
 
 ---
 
-## Members
-1. [Agus Gunawan](https://github.com/agusgun)
-2. [Holy Lovenia](https://github.com/holylovenia)
-3. [Adrian Hartanto Pramudita](https://github.com/adrianhp97)
-
 ## Indonesian paper/documentation
 [Get it here!](https://github.com/agusgun/FakeImageDetector/blob/master/docs/Deteksi%20Pemalsuan%20Gambar%20dengan%20ELA%20dan%20Deep%20Learning.pdf)
 
