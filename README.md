@@ -4,8 +4,8 @@
 
 ---
 
-## Indonesian paper/documentation
-[Get it here!](https://github.com/agusgun/FakeImageDetector/blob/master/docs/Deteksi%20Pemalsuan%20Gambar%20dengan%20ELA%20dan%20Deep%20Learning.pdf)
+## paper/documentation
+[Get it here!](https://github.com/agusgun/FakeImageDetector/blob/master/docs/Image%20Fake%20Detection%20using%20ELA%20and%20Deep%20Learning_English.pdf)
 
 ## Project objective
 Combine the implementation of error-level analysis (ELA) and deep learning to detect whether an image has undergone fabrication or/and editing process or not, e.g. splicing.
